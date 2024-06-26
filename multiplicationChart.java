@@ -1,3 +1,9 @@
+ /* 
+  * Author - Vignes
+  * Mail-id - vikey.vignes2002@gmail.com
+  * Date - 2024/06/24
+  * Description - Simple Multiplication Chart Generator & Simple Multiplicator :)
+  */
 
 import java.util.Scanner;
 
